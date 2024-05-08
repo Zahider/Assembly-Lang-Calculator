@@ -1,7 +1,3 @@
-#Student Name: Zahid Rafiqzad 
-#Student ID:   100702916
-#Computer Architecture Case Study
-
 .data
 	#messages
 	options: .asciiz "\nPlease enter a, b, c or d: "
